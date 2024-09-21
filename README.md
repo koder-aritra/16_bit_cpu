@@ -1,8 +1,7 @@
 # 16-Bit CPU Design Using Verilog
 
 
-<img src="16_bit_cpu/layout.png" width="600" >  
-
+![CPU Layout](https://github.com/koder-aritra/16_bit_cpu/blob/main/Layout.png)
 
 ## Overview
 
