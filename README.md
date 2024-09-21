@@ -1,5 +1,9 @@
 # 16-Bit CPU Design Using Verilog
 
+
+<img src="16_bit_cpu/layout.png" width="600" >  
+
+
 ## Overview
 
 This project demonstrates the design and implementation of a 16-bit CPU using Verilog. The architecture consists of various components that work together to perform arithmetic, logical, and control operations. Below is a detailed breakdown of the approach, components, instruction set, and operational flow of the CPU.
